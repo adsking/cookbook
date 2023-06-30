@@ -2,7 +2,7 @@
 
 <head>
     <title>Recipe Cookbook</title>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <style>
         /* Additional styles for search form */
 
