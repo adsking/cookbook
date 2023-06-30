@@ -3,7 +3,7 @@
 
 <head>
     <title>Recipe Details</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <style>
         .recipe-details {
             padding: 40px;
