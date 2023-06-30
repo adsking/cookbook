@@ -1,0 +1,3 @@
+<h2>Privacy Policy</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac elit et magna efficitur suscipit. Sed nec vestibulum ipsum, id venenatis tortor. Nam auctor enim in dui luctus semper. Ut at nibh malesuada, varius mi et, sollicitudin lorem.</p>
+<p>In ultricies ultrices semper. Sed aliquet lorem sed vulputate auctor. Vestibulum semper sem at nibh fringilla, sed maximus purus sollicitudin. Nulla facilisi. Nam accumsan leo ut ultrices laoreet.</p>

@@ -1,0 +1,3 @@
+<h2>Terms and Conditions</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor enim sit amet augue placerat rutrum. Integer lacinia nisi at velit convallis, et placerat arcu lobortis. Fusce quis mauris sit amet libero eleifend tempus. In hac habitasse platea dictumst.</p>
+<p>Nullam sit amet fringilla leo, at tincidunt lorem. Sed vitae purus non mi posuere semper. Vivamus ac nisi non mauris tristique faucibus. Mauris mattis massa in est vestibulum cursus. Nulla facilisi. Phasellus sit amet volutpat ipsum.</p>
